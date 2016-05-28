@@ -1,0 +1,10 @@
+*.log
+*.jou
+*.Xil
+
+zmmp7100_rocketchip_*
+src/tcl/zmmp7100_rocketchip_*.tcl
+src/tcl/make_bitstream_*.tcl
+src/verilog/rocketchip_wrapper.v
+deliver_output
+soft_build
